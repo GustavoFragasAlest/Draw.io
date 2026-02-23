@@ -40,7 +40,7 @@ Isso significa que:
 
 Fluxo simplificado mostrando os três componentes principais do sistema:
 
-![Arquitetura de Pagamento](../arquitetura-pagamento.drawio.svg)
+![Arquitetura de Pagamento](./docs/arquitetura-pagamento.drawio.svg)
 
 | Componente | Responsabilidade |
 |---|---|
@@ -54,7 +54,7 @@ Fluxo simplificado mostrando os três componentes principais do sistema:
 
 Diagrama completo da nova infraestrutura na AWS com ícones oficiais, gerado via MCP do Draw.io:
 
-![Nova Arquitetura AWS](./nova-arquitetura.drawio.svg)
+![Nova Arquitetura AWS](./docs/nova-arquitetura.drawio.svg)
 
 ### Serviços utilizados
 

@@ -2,11 +2,7 @@
   "servers": {
     "drawio": {
       "type": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "@drawio/mcp"
-      ]
+      "command": "/home/gustavofragas/.npm-global/bin/drawio-mcp"
     }
   }
 }
